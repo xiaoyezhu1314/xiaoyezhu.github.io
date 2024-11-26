@@ -5,7 +5,7 @@ header-img: img/home-bg-2.jpg
 email: 
 description: "这里是 @小野猪 的个人博客，与你一起发现更大的世界"
 keyword: "web,渗透测试,靶场"
-url: "https://xiaoyezhu.github.io/" # your host, for absolute URL
+url: "https://xiaoyezhu1314.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
